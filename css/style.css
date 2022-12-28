@@ -82,7 +82,7 @@ header .send-notification .input-group button {
 }
 /*==============  Start features ===============*/
 section.features {
-  margin: 100px;
+  margin: 100px 0;
 }
 section.features h2 {
   font-size: 45px;
